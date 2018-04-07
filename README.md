@@ -4,6 +4,8 @@
 
 ## Publications
 
+[dblp: Peipei Yi](https://dblp.org/pers/hd/y/Yi:Peipei)
+
 ## Photo Sharing
 
 [Sharing - iCloud Photo Sharing](https://www.icloud.com/sharedalbum/#B0MG6XBubJFv4qN)
