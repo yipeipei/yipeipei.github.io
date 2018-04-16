@@ -1,7 +1,7 @@
 ## It's True
 
-Life is short
-Simple is better
-Own your own time
-Own your own data
-Own your own code
+Life is short <br>
+Simple is better <br>
+Own your own time <br>
+Own your own data <br>
+Own your own code <br>
