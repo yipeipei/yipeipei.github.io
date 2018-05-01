@@ -10,10 +10,4 @@
 
 [Sharing - iCloud Photo Sharing](https://www.icloud.com/sharedalbum/#B0MG6XBubJFv4qN)
 
-## Elsewhere
-
-GitHub: [yipeipei](https://github.com/yipeipei)
-
-Twitter: [@yipeipei](https://twitter.com/yipeipei)
-
 {% include_relative true.md %}
