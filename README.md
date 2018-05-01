@@ -12,8 +12,8 @@
 
 ## Elsewhere
 
-GitHub: [yipeipei (YI Peipei)](https://github.com/yipeipei)
+GitHub: [yipeipei](https://github.com/yipeipei)
 
-Twitter: [YI Peipei (@yipeipei) | Twitter](https://twitter.com/yipeipei)
+Twitter: [@yipeipei](https://twitter.com/yipeipei)
 
 {% include_relative true.md %}
