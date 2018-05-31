@@ -1,4 +1,4 @@
-# YI Peipei / 易佩佩
+# {{ site.title }}
 
 {% include_relative bio.md %}
 
