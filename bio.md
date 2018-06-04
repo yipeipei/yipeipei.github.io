@@ -4,4 +4,4 @@ YI Peipei is a senior research assistant and a PhD student of Department of Comp
 
 Peipei received B.Eng. degree in Computer Science and Technology from University of Electronic Science and Technology of China (UESTC, 电子科技大学). Before becoming a PhD student, he was a student intern at Intel Products (Chengdu) Ltd. from 2012.10 to 2013.6.
 
-Peipei's home on the web is [https://www.yipeipei.com/](https://www.yipeipei.com/).
+Peipei's home on the web is [https://www.yipeipei.com/](https://www.yipeipei.com/)
