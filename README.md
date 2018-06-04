@@ -2,6 +2,8 @@
 
 {% include_relative bio.md %}
 
+{% include_relative contact.md %}
+
 ## Publications
 
 [dblp: Peipei Yi](https://dblp.org/pers/hd/y/Yi:Peipei)
