@@ -1,8 +1,8 @@
 # YI Peipei / 易佩佩
 
-{% include_relative bio.md %}
-
 {% include_relative contact.md %}
+
+{% include_relative bio.md %}
 
 ## Publications
 
