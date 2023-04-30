@@ -6,7 +6,7 @@
 
 ## Publications
 
-[dblp: Peipei Yi](https://dblp.org/pers/hd/y/Yi:Peipei)
+[dblp: Peipei Yi](https://dblp.org/pid/144/3286.html)
 
 {% include_relative projects.md %}
 
